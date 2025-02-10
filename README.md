@@ -1,30 +1,30 @@
-# House-Price-Prediction
-Overview
+# House Price Prediction
 
-A machine learning model for predicting house prices using features like crime rate, number of rooms, and property tax. Built with Python and Scikit-learn.
+## 📌 Overview
+This repository contains a machine learning model that predicts house prices based on various features, such as crime rate, number of rooms, and property tax. The model is built using Python and Scikit-learn.
 
-Installation
-
+## 🚀 Installation
 Clone the repository and install dependencies:
-
+```sh
 git clone https://github.com/your-username/house-price-prediction.git
 cd house-price-prediction
 pip install -r requirements.txt
+```
 
-Usage
-
-Run the Jupyter Notebook:
-
+## 🛠️ Usage
+Open and run the Jupyter Notebook:
+```sh
 jupyter notebook "House Price Prediction.ipynb"
+```
 
-Model Pipeline
+## 🔗 Model Pipeline
+- **Data Preprocessing**: Handle missing values and scale features.
+- **Training**: Implement Linear Regression.
+- **Evaluation**: Assess using R² score, MAE, and MSE.
 
-Preprocessing: Handling missing values, scaling features.
+## 🤝 Contributing
+Fork the repository, make changes, and submit a pull request.
 
-Training: Linear Regression.
+## 📜 License
+This project is licensed under the MIT License.
 
-Evaluation: R² score, MAE, MSE.
-
-Contributing
-
-Fork the repo and submit a pull request.
